@@ -123,9 +123,3 @@ main()
 ## 👨‍💻 Author
 
 Built as a learning project in C programming, focusing on file I/O, struct-free data management, and modular code organization.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
